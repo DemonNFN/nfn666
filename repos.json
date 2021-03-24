@@ -5,4 +5,18 @@
     "opis": "Grad pod Bukuljom!",
     "webadresa": "https://bukovickabanja.rs/",
     },
+  
+    {
+    "id": 2,
+    "ime": "TOPOLA",
+    "opis": "Oplenac grad!",
+    "webadresa": "https://www.topola.com/",
+    },
+  
+    {
+    "id": 3,
+    "ime": "ČAČAK",
+    "opis": "Grad na obali Zapadne morave!",
+    "webadresa": "https://www.cacak.org.rs/Cacak-1-1",
+    },
 ]
