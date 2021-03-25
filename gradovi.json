@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "ime": "Aranđelovac",
+    "opis": "Grad pod Bukuljom!",
+    "webadresa": "https://bukovickabanja.rs/",
+    },
+  
+    {
+    "id": 2,
+    "ime": "Topola",
+    "opis": "Oplenac grad!",
+    "webadresa": "https://www.topola.com/",
+    },
+  
+    {
+    "id": 3,
+    "ime": "Čačak",
+    "opis": "Grad na obali Zapadne morave!",
+    "webadresa": "https://www.cacak.org.rs/Cacak-1-1",
+    },
+]
