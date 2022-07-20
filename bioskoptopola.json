@@ -1,9 +1,5 @@
 [
   {
-    "userId": 1,
-    "id": "Bioskop Topola",
-    "title": "Културни центар Топола је установа у култури чији је оснивач општина Топола. Jebo vas pas mutavi!",
-    "webadresa": "https://www.kctopola.org.rs/",
-    "slika": "https://upload.wikimedia.org/wikipedia/sr/2/27/Topolav.jpg",
-    },
+    "url": "https://upload.wikimedia.org/wikipedia/sr/2/27/Topolav.jpg",
+  }
 ]
